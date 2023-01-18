@@ -11,4 +11,4 @@
 - Open terminal
 - Go to path  "/notification-gs/client"
 - Run command "npm install"
-- Run command "smp start"
+- Run command "npm start"
