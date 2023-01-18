@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "channel": "SMS"
+    },
+    {
+        "id": 2,
+        "channel": "E-Mail"
+    },
+    {
+        "id": 3,
+        "channel": "Push Notification"
+    }
+]

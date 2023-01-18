@@ -1,0 +1,28 @@
+[
+    {
+        "userId": 123,
+        "subscribed": [
+            {
+                "category": "Sports",
+                "channels": ["SMS"]
+            },
+            {
+                "category": "Finance",
+                "channels": ["SMS", "E-Mail"]
+            }
+        ]
+    },
+    {
+        "userId": 111,
+        "subscribed": [
+            {
+                "category": "Sports",
+                "channels": ["SMS"]
+            },
+            {
+                "category": "Finance",
+                "channels": ["SMS", "E-Mail"]
+            }
+        ]
+    }
+]
