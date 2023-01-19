@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Daniel",
+        "email": "daniel8687@gmail.com",
+        "phoneNumber": "+59168598642",
+        "subscribed": [
+            {
+                "category": "Sports",
+                "channels": ["SMS"]
+            },
+            {
+                "category": "Finance",
+                "channels": ["SMS", "E-Mail"]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mario",
+        "email": "Mario@gmail.com",
+        "phoneNumber": "+59122222222",
+        "subscribed": [
+            {
+                "category": "Sports",
+                "channels": ["E-Mail"]
+            },
+            {
+                "category": "Movies",
+                "channels": ["SMS"]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jorge",
+        "email": "Jorge@gmail.com",
+        "phoneNumber": "+59133333333",
+        "subscribed": [
+            {
+                "category": "Sports",
+                "channels": ["SMS", "E-Mail", "Push Notification"]
+            },
+            {
+                "category": "Movies",
+                "channels": ["SMS", "E-Mail", "Push Notification"]
+            },
+            {
+                "category": "Finance",
+                "channels": ["SMS", "E-Mail", "Push Notification"]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Jorge",
+        "email": "Jorge@gmail.com",
+        "phoneNumber": "+59133333333",
+        "subscribed": [
+            {
+                "category": "Finance",
+                "channels": ["Push Notification"]
+            }
+        ]
+    }
+]
