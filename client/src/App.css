@@ -48,6 +48,47 @@
   color: white;
 }
 
+.App-layout {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  background-color: white;
+  width: 400px;
+  gap: 20px;
+}
+
+input {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background-color: #61dafb;
+  cursor: pointer;
+  color: white;
+}
+
 .links {
   display: flex;
   gap: 10px;
@@ -56,6 +97,12 @@
 .link {
   text-decoration: none;
   color: inherit;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  text-align: center;
 }
 
 @keyframes App-logo-spin {
